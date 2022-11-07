@@ -1,0 +1,25 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:d95b0c93312fceeb58ee9b92912c0c85:5ed76080590a157c5ed23c3b9efd91aa:d14e3026721ab5896f1abf9ea04096c7$
+#
+:format=40300
+:texture=DamageTaking.png
+:size=1024x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+MeeleFighter-DamageTaking0;0;1641;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking1;432;1641;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking2;0;1234;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking3;432;1234;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking4;0;827;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking5;432;827;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking6;0;420;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking7;432;420;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking8;0;13;432;407; 0.15277778;0.50614251; 0;0;0;0
+MeeleFighter-DamageTaking9;432;13;432;407; 0.15277778;0.50614251; 0;0;0;0

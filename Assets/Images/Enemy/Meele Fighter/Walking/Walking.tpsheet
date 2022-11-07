@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:c5ced082be0cc7a2a41d9ff130af8044:c48efd32fe52cb64efd0c95d806fded3:563682aac514d53690d7ea8ca6cfd2b3$
+#
+:format=40300
+:texture=Walking.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+MeeleFighter-Walking0;0;1675;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking1;360;1675;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking2;720;1675;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking3;1080;1675;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking4;1440;1675;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking5;0;1302;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking6;360;1302;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking7;720;1302;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking8;1080;1302;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking9;1440;1302;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking10;0;929;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking11;360;929;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking12;720;929;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking13;1080;929;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking14;1440;929;360;373; 0.51388889;0.47184987; 0;0;0;0
+MeeleFighter-Walking15;0;556;360;373; 0.51388889;0.47184987; 0;0;0;0

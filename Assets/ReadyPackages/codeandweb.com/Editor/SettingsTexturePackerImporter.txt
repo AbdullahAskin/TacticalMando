@@ -1,0 +1,39 @@
+version: 2
+importPivots: 1
+tpsheetFileNames:
+- Assets/Images/Enemy/AvatarEnemy/DamageTaking/DamageTaking.tpsheet
+- Assets/Images/Enemy/AvatarEnemy/Idle/Idle.tpsheet
+- Assets/Images/Enemy/AvatarEnemy/Walking/Walking.tpsheet
+- Assets/Images/Enemy/Healer/Attacking/Attacking.tpsheet
+- Assets/Images/Enemy/Healer/DamageTaking/DamageTaking.tpsheet
+- Assets/Images/Enemy/Healer/Idle/Idle.tpsheet
+- Assets/Images/Enemy/Healer/Walking/Walking.tpsheet
+- Assets/Images/Enemy/Meele Fighter/Attacking/Attacking.tpsheet
+- Assets/Images/Enemy/Meele Fighter/DamageTaking/DamageTaking.tpsheet
+- Assets/Images/Enemy/Meele Fighter/Idle/Idle.tpsheet
+- Assets/Images/Enemy/Meele Fighter/Walking/Walking.tpsheet
+textureFileNames:
+- Assets/Images/Enemy/AvatarEnemy/DamageTaking/DamageTaking.png
+- Assets/Images/Enemy/AvatarEnemy/Idle/Idle.png
+- Assets/Images/Enemy/AvatarEnemy/Walking/Walking.png
+- Assets/Images/Enemy/Healer/Attacking/Attacking.png
+- Assets/Images/Enemy/Healer/DamageTaking/DamageTaking.png
+- Assets/Images/Enemy/Healer/Idle/Idle.png
+- Assets/Images/Enemy/Healer/Walking/Walking.png
+- Assets/Images/Enemy/Meele Fighter/Attacking/Attacking.png
+- Assets/Images/Enemy/Meele Fighter/DamageTaking/DamageTaking.png
+- Assets/Images/Enemy/Meele Fighter/Idle/Idle.png
+- Assets/Images/Enemy/Meele Fighter/Walking/Walking.png
+normalmapFileNames:
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+enableDebugOutput: 0

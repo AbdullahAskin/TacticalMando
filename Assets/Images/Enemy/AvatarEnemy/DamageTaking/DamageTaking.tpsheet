@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:7eda86bd13df20067dce4ce8ca5ac3a3:289300aadb5a51091c48905fd5cd503d:d14e3026721ab5896f1abf9ea04096c7$
+#
+:format=40300
+:texture=DamageTaking.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Standing-DamageTaking0;0;820;183;204; 0.33879781;0.41666667; 0;0;0;0
+Standing-DamageTaking1;183;820;183;204; 0.33879781;0.41666667; 0;0;0;0
+Standing-DamageTaking2;366;820;183;204; 0.33879781;0.41666667; 0;0;0;0
+Standing-DamageTaking3;549;820;183;204; 0.33879781;0.41666667; 0;0;0;0
+Standing-DamageTaking4;732;820;183;204; 0.33879781;0.41666667; 0;0;0;0
+Standing-DamageTaking5;0;616;183;204; 0.33879781;0.41666667; 0;0;0;0
+Standing-DamageTaking6;183;616;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0
+Standing-DamageTaking7;366;616;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0
+Standing-DamageTaking8;549;616;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0
+Standing-DamageTaking9;732;616;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0
+Standing-DamageTaking10;0;412;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0
+Standing-DamageTaking11;183;412;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0
+Standing-DamageTaking12;366;412;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0
+Standing-DamageTaking13;549;412;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0
+Standing-DamageTaking14;732;412;183;204; 0.33879781420765026;0.41666666666666674; 0;0;0;0

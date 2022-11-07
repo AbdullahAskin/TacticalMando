@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: 7785687a9b6788240b99d06c3eae5d47
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1320456557953223805
+    second: healerEnemy-walking0
+  - first:
+      213: -1563114286004884954
+    second: healerEnemy-walking1
+  - first:
+      213: -7205233529457959926
+    second: healerEnemy-walking2
+  - first:
+      213: -3322981262766864332
+    second: healerEnemy-walking3
+  - first:
+      213: 8477955906766407214
+    second: healerEnemy-walking4
+  - first:
+      213: 2963892473712322888
+    second: healerEnemy-walking5
+  - first:
+      213: -3274337470211642617
+    second: healerEnemy-walking6
+  - first:
+      213: 7703533642818475409
+    second: healerEnemy-walking7
+  - first:
+      213: 3609757123449801819
+    second: healerEnemy-walking8
+  - first:
+      213: 634038899244587457
+    second: healerEnemy-walking9
+  - first:
+      213: -4617657051486807491
+    second: healerEnemy-walking10
+  - first:
+      213: -8500051858425339311
+    second: healerEnemy-walking11
+  - first:
+      213: 4071897279533830050
+    second: healerEnemy-walking12
+  - first:
+      213: -7428478471211969560
+    second: healerEnemy-walking13
+  - first:
+      213: -8814412776519872645
+    second: healerEnemy-walking14
+  - first:
+      213: 4398819894797653687
+    second: healerEnemy-walking15
+  - first:
+      213: -6191528557788780847
+    second: healerEnemy-walking16
+  - first:
+      213: 6377675229414248669
+    second: healerEnemy-walking17
+  - first:
+      213: -8855631736714779603
+    second: healerEnemy-walking18
+  - first:
+      213: 8367680822143417992
+    second: healerEnemy-walking19
+  - first:
+      213: -8993202824463158984
+    second: healerEnemy-walking20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healerEnemy-walking0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 789
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c032e4e34335210800000000000000
+      internalID: 1320456557953223805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking1
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 789
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a275fa6d3be4ae0800000000000000
+      internalID: -1563114286004884954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking2
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 789
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0c9ce8a74ed10c90800000000000000
+      internalID: -7205233529457959926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking3
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 789
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438808db52662e1d0800000000000000
+      internalID: -3322981262766864332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking4
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 789
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e268c34aaffb7a570800000000000000
+      internalID: 8477955906766407214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking5
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 789
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 849a310608cd12920800000000000000
+      internalID: 2963892473712322888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking6
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 789
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ba8454b673f82d0800000000000000
+      internalID: -3274337470211642617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 554
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1955777780378ea60800000000000000
+      internalID: 7703533642818475409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking8
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 554
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c49ac7afe681230800000000000000
+      internalID: 3609757123449801819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking9
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 554
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9d043050f8cc800800000000000000
+      internalID: 634038899244587457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking10
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 554
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a1d878069caefb0800000000000000
+      internalID: -4617657051486807491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 554
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152a826bedfb90a80800000000000000
+      internalID: -8500051858425339311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking12
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 554
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2af4e7c7009428830800000000000000
+      internalID: 4071897279533830050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking13
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 554
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e316cd203eb8e890800000000000000
+      internalID: -7428478471211969560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 319
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7f4edfc74aeca580800000000000000
+      internalID: -8814412776519872645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking15
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 319
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b6d55c636fbb0d30800000000000000
+      internalID: 4398819894797653687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking16
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 319
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d62050b495431aa0800000000000000
+      internalID: -6191528557788780847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking17
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 319
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd05b0ea4dd028850800000000000000
+      internalID: 6377675229414248669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking18
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 319
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24a077cad97a1580800000000000000
+      internalID: -8855631736714779603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking19
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 319
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ef4b5bf59ff1470800000000000000
+      internalID: 8367680822143417992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-walking20
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 319
+        width: 275
+        height: 235
+      alignment: 9
+      pivot: {x: 0.21090908, y: 0.5276596}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83175dedda9b13380800000000000000
+      internalID: -8993202824463158984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

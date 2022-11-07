@@ -1,0 +1,36 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:25198b4fddb48f0cea36b10277a7bebd:6685ea87b5446ec18752d3d5a7438dd2:76566787e25dd2900a525bb52a3e1620$
+#
+:format=40300
+:texture=Attacking.png
+:size=4096x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+MeeleFighter-Attacking0;0;1483;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking1;521;1483;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking2;1042;1483;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking3;1563;1483;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking4;2084;1483;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking5;2605;1483;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking6;3126;1483;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking7;0;918;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking8;521;918;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking9;1042;918;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking10;1563;918;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking11;2084;918;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking12;2605;918;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking13;3126;918;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking14;0;353;521;565; 0.30134357005758156;0.5433628318584071; 0;0;0;0
+MeeleFighter-Attacking15;521;353;521;565; 0.30134357005758156;0.5433628318584071; 0;0;0;0
+MeeleFighter-Attacking16;1042;353;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking17;1563;353;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking18;2084;353;521;565; 0.30134357;0.54336283; 0;0;0;0
+MeeleFighter-Attacking19;2605;353;521;565; 0.30134357005758156;0.5433628318584071; 0;0;0;0
+MeeleFighter-Attacking20;3126;353;521;565; 0.30134357;0.54336283; 0;0;0;0

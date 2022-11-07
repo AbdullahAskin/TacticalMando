@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: eade9986d2c517545868aab6df45cdba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7937302855100110552
+    second: MeeleFighter-Attacking0
+  - first:
+      213: -745935958152647322
+    second: MeeleFighter-Attacking1
+  - first:
+      213: 4712520020621107708
+    second: MeeleFighter-Attacking2
+  - first:
+      213: 3361541008737255927
+    second: MeeleFighter-Attacking3
+  - first:
+      213: 5494857732441088029
+    second: MeeleFighter-Attacking4
+  - first:
+      213: 6523452655687132690
+    second: MeeleFighter-Attacking5
+  - first:
+      213: -7269773294283391923
+    second: MeeleFighter-Attacking6
+  - first:
+      213: -6679931683106411050
+    second: MeeleFighter-Attacking7
+  - first:
+      213: 7011173021094841516
+    second: MeeleFighter-Attacking8
+  - first:
+      213: -7890309387159566052
+    second: MeeleFighter-Attacking9
+  - first:
+      213: 4593047158602625071
+    second: MeeleFighter-Attacking10
+  - first:
+      213: -8460822972976558792
+    second: MeeleFighter-Attacking11
+  - first:
+      213: -3091837260919987853
+    second: MeeleFighter-Attacking12
+  - first:
+      213: 2134663848535414115
+    second: MeeleFighter-Attacking13
+  - first:
+      213: -8430372476112854685
+    second: MeeleFighter-Attacking14
+  - first:
+      213: -4289705883460779400
+    second: MeeleFighter-Attacking15
+  - first:
+      213: -639103969226096195
+    second: MeeleFighter-Attacking16
+  - first:
+      213: -512904706542615938
+    second: MeeleFighter-Attacking17
+  - first:
+      213: -2355714547351136531
+    second: MeeleFighter-Attacking18
+  - first:
+      213: -5923842659698324158
+    second: MeeleFighter-Attacking19
+  - first:
+      213: 5720581638216234994
+    second: MeeleFighter-Attacking20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1483
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d69fe0a4e6f62e60800000000000000
+      internalID: 7937302855100110552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking1
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1483
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66dee1db237e5a5f0800000000000000
+      internalID: -745935958152647322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking2
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1483
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1a902adfb366140800000000000000
+      internalID: 4712520020621107708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking3
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 1483
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f141bbbcb796ae20800000000000000
+      internalID: 3361541008737255927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking4
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 1483
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10a571aef7a14c40800000000000000
+      internalID: 5494857732441088029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking5
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 1483
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2166f4ba0a5f78a50800000000000000
+      internalID: 6523452655687132690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking6
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 1483
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cfd9ca4b39c1b90800000000000000
+      internalID: -7269773294283391923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 918
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dda098a68d1c43a0800000000000000
+      internalID: -6679931683106411050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking8
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 918
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac092547b0bc4160800000000000000
+      internalID: 7011173021094841516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking9
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 918
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c198c62ca6dff7290800000000000000
+      internalID: -7890309387159566052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking10
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 918
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2070254e08cdbf30800000000000000
+      internalID: 4593047158602625071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking11
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 918
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83d844c555e159a80800000000000000
+      internalID: -8460822972976558792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking12
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 918
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3712c8774669715d0800000000000000
+      internalID: -3091837260919987853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking13
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 918
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36552d6d579df9d10800000000000000
+      internalID: 2134663848535414115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 353
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361201526ec410b80800000000000000
+      internalID: -8430372476112854685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking15
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 353
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872ca611a37e774c0800000000000000
+      internalID: -4289705883460779400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking16
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 353
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db18cbb73527127f0800000000000000
+      internalID: -639103969226096195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking17
+      rect:
+        serializedVersion: 2
+        x: 1563
+        y: 353
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e72c6ea03ebc1e8f0800000000000000
+      internalID: -512904706542615938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking18
+      rect:
+        serializedVersion: 2
+        x: 2084
+        y: 353
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de65aeca912de4fd0800000000000000
+      internalID: -2355714547351136531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking19
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 353
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24d4063ac784acda0800000000000000
+      internalID: -5923842659698324158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Attacking20
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 353
+        width: 521
+        height: 565
+      alignment: 9
+      pivot: {x: 0.30134356, y: 0.54336286}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f73086e0b6936f40800000000000000
+      internalID: 5720581638216234994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

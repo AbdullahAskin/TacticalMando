@@ -1,0 +1,31 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:32f590b29fb045ff0ef371f1bbe216e7:3cb77cfffdb504d3f16b62b65fb2d0b2:a0246744dc69b8f5a89a77cf524d6578$
+#
+:format=40300
+:texture=Idle.png
+:size=2048x2048
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+MeeleFighter-Idle0;0;1680;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle1;400;1680;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle2;800;1680;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle3;1200;1680;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle4;1600;1680;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle5;0;1312;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle6;400;1312;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle7;800;1312;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle8;1200;1312;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle9;1600;1312;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle10;0;944;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle11;400;944;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle12;800;944;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle13;1200;944;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle14;1600;944;400;368; 0.11;0.57065217; 0;0;0;0
+MeeleFighter-Idle15;0;576;400;368; 0.11;0.57065217; 0;0;0;0

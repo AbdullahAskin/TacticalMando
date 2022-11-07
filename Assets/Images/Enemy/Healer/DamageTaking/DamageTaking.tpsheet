@@ -1,0 +1,26 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:4933526b4300d374b3d9c3ce454214fe:9ad3953860e16a48fdacdcc93e41939c:d14e3026721ab5896f1abf9ea04096c7$
+#
+:format=40300
+:texture=DamageTaking.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+healerEnemy-DamageTaking0;0;795;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking1;282;795;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking2;564;795;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking3;0;566;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking4;282;566;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking5;564;566;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking6;0;337;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking7;282;337;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking8;564;337;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking9;0;108;282;229; 0.26950355;0.6331877699999999; 0;0;0;0
+healerEnemy-DamageTaking10;282;108;282;229; 0.26950355;0.6331877699999999; 0;0;0;0

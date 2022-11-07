@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 38d0bd6df5bd30742a83e8a2b6bb7dc9, type: 3}
+  m_Name: Level-1
+  m_EditorClassIdentifier: 
+  level:
+    rounds:
+    - waveOnPoints:
+      - pointIndex: 0
+        meeleFighterAmount: 2
+        healerAmount: 2
+        avatarAmount: 1
+      - pointIndex: 1
+        meeleFighterAmount: 2
+        healerAmount: 3
+        avatarAmount: 1
+      - pointIndex: 2
+        meeleFighterAmount: 3
+        healerAmount: 2
+        avatarAmount: 3
+      - pointIndex: 4
+        meeleFighterAmount: 2
+        healerAmount: 3
+        avatarAmount: 2
+      - pointIndex: 4
+        meeleFighterAmount: 6
+        healerAmount: 2
+        avatarAmount: 4
+    - waveOnPoints:
+      - pointIndex: 2
+        meeleFighterAmount: 1
+        healerAmount: 3
+        avatarAmount: 1
+      - pointIndex: 1
+        meeleFighterAmount: 2
+        healerAmount: 3
+        avatarAmount: 1
+      - pointIndex: 0
+        meeleFighterAmount: 3
+        healerAmount: 2
+        avatarAmount: 3
+      - pointIndex: 6
+        meeleFighterAmount: 2
+        healerAmount: 3
+        avatarAmount: 2
+      - pointIndex: 8
+        meeleFighterAmount: 2
+        healerAmount: 3
+        avatarAmount: 2

@@ -1,0 +1,596 @@
+fileFormatVersion: 2
+guid: e572ad78ab3da35418d88eca93049784
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7425857996242062635
+    second: healerEnemy-Attacking0
+  - first:
+      213: -6831085813762481040
+    second: healerEnemy-Attacking1
+  - first:
+      213: -3689654699578476860
+    second: healerEnemy-Attacking2
+  - first:
+      213: 2137738081823852336
+    second: healerEnemy-Attacking3
+  - first:
+      213: 7678045555780937300
+    second: healerEnemy-Attacking4
+  - first:
+      213: 7239000128134800873
+    second: healerEnemy-Attacking5
+  - first:
+      213: -3726475545114164267
+    second: healerEnemy-Attacking6
+  - first:
+      213: -558998693383910064
+    second: healerEnemy-Attacking7
+  - first:
+      213: -7007817703717172254
+    second: healerEnemy-Attacking8
+  - first:
+      213: -3238734759157506917
+    second: healerEnemy-Attacking9
+  - first:
+      213: -1184611476135829421
+    second: healerEnemy-Attacking10
+  - first:
+      213: -5601595945681272449
+    second: healerEnemy-Attacking11
+  - first:
+      213: 7050622357737337978
+    second: healerEnemy-Attacking12
+  - first:
+      213: 6469328163804840202
+    second: healerEnemy-Attacking13
+  - first:
+      213: 1830115425380775845
+    second: healerEnemy-Attacking14
+  - first:
+      213: 9003851241139055263
+    second: healerEnemy-Attacking15
+  - first:
+      213: 5991075809464209747
+    second: healerEnemy-Attacking16
+  - first:
+      213: 212967263546632222
+    second: healerEnemy-Attacking17
+  - first:
+      213: 6994997723588638917
+    second: healerEnemy-Attacking18
+  - first:
+      213: 4074485536879872007
+    second: healerEnemy-Attacking19
+  - first:
+      213: -7570151146284460935
+    second: healerEnemy-Attacking20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healerEnemy-Attacking0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 740
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d27f7d0f7d02f890800000000000000
+      internalID: -7425857996242062635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 740
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0742a7025ab1331a0800000000000000
+      internalID: -6831085813762481040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 740
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c636cf6996bbccc0800000000000000
+      internalID: -3689654699578476860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking3
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 740
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0378fed8575caad10800000000000000
+      internalID: 2137738081823852336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking4
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 740
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456e691c0c5ed8a60800000000000000
+      internalID: 7678045555780937300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking5
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 740
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e56b7e3348167460800000000000000
+      internalID: 7239000128134800873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking6
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 740
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d34a454c36e84cc0800000000000000
+      internalID: -3726475545114164267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 456
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05dc1fa66a90e38f0800000000000000
+      internalID: -558998693383910064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 456
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eb8e3f6dea3fbe90800000000000000
+      internalID: -7007817703717172254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking9
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 456
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9cd4b665e3bd03d0800000000000000
+      internalID: -3238734759157506917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking10
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 456
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350a218832a6f8fe0800000000000000
+      internalID: -1184611476135829421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking11
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 456
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f71466a7a222342b0800000000000000
+      internalID: -5601595945681272449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking12
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 456
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a747c56bda7d8d160800000000000000
+      internalID: 7050622357737337978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking13
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 456
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a01840360bba7c950800000000000000
+      internalID: 6469328163804840202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 172
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a7b8c37840e56910800000000000000
+      internalID: 1830115425380775845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking15
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 172
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9aad86dffa14fc70800000000000000
+      internalID: 9003851241139055263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking16
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 172
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351dc85e4b3942350800000000000000
+      internalID: 5991075809464209747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking17
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 172
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e18eb7c099c94f200800000000000000
+      internalID: 212967263546632222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking18
+      rect:
+        serializedVersion: 2
+        x: 1128
+        y: 172
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8ba275e59331160800000000000000
+      internalID: 6994997723588638917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking19
+      rect:
+        serializedVersion: 2
+        x: 1410
+        y: 172
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 708013c120b7b8830800000000000000
+      internalID: 4074485536879872007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-Attacking20
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 172
+        width: 282
+        height: 284
+      alignment: 9
+      pivot: {x: 0.21276596, y: 0.4753521}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 974d2bd04ab61f690800000000000000
+      internalID: -7570151146284460935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

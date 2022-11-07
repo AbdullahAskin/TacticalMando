@@ -1,0 +1,356 @@
+fileFormatVersion: 2
+guid: fbc83ceb0796d4445aa2447cc68037b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4645377184154583772
+    second: healerEnemy-DamageTaking0
+  - first:
+      213: -7484329044994441404
+    second: healerEnemy-DamageTaking1
+  - first:
+      213: 9172959767674828727
+    second: healerEnemy-DamageTaking2
+  - first:
+      213: -7315216145016326345
+    second: healerEnemy-DamageTaking3
+  - first:
+      213: -7747369346094327182
+    second: healerEnemy-DamageTaking4
+  - first:
+      213: 4344848755819260714
+    second: healerEnemy-DamageTaking5
+  - first:
+      213: 6999272214794450064
+    second: healerEnemy-DamageTaking6
+  - first:
+      213: 8090063730089900231
+    second: healerEnemy-DamageTaking7
+  - first:
+      213: 2687399836868588156
+    second: healerEnemy-DamageTaking8
+  - first:
+      213: -7272795057357529217
+    second: healerEnemy-DamageTaking9
+  - first:
+      213: -8571022745093150931
+    second: healerEnemy-DamageTaking10
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 795
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd20d3dcfe1b77040800000000000000
+      internalID: 4645377184154583772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking1
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 795
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44fb7f22362522890800000000000000
+      internalID: -7484329044994441404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking2
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 795
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7353bee46ec4f70800000000000000
+      internalID: 9172959767674828727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking3
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 566
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 737791d7ca12b7a90800000000000000
+      internalID: -7315216145016326345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking4
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 566
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27a1c4680a0db7490800000000000000
+      internalID: -7747369346094327182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking5
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 566
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2ba7656ce00c4c30800000000000000
+      internalID: 4344848755819260714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 337
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094b511eef8622160800000000000000
+      internalID: 6999272214794450064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking7
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 337
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8b74a791ea54070800000000000000
+      internalID: 8090063730089900231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking8
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 337
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c72bef5c9ef8b4520800000000000000
+      internalID: 2687399836868588156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 108
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7fdcf1ad67d11b90800000000000000
+      internalID: -7272795057357529217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: healerEnemy-DamageTaking10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 108
+        width: 282
+        height: 229
+      alignment: 9
+      pivot: {x: 0.26950356, y: 0.6331878}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27edec793c9d0980800000000000000
+      internalID: -8571022745093150931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

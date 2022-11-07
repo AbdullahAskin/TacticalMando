@@ -1,0 +1,476 @@
+fileFormatVersion: 2
+guid: d5594e365d5eabb44b89749e127fcfc6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4683659135524173956
+    second: MeeleFighter-Walking0
+  - first:
+      213: 4258744421487911641
+    second: MeeleFighter-Walking1
+  - first:
+      213: -864131838544571552
+    second: MeeleFighter-Walking2
+  - first:
+      213: 8229999515378645376
+    second: MeeleFighter-Walking3
+  - first:
+      213: -2858966946997275746
+    second: MeeleFighter-Walking4
+  - first:
+      213: -5292233601040174186
+    second: MeeleFighter-Walking5
+  - first:
+      213: -5181659053596499310
+    second: MeeleFighter-Walking6
+  - first:
+      213: -5573026248523999236
+    second: MeeleFighter-Walking7
+  - first:
+      213: 5791302797721908704
+    second: MeeleFighter-Walking8
+  - first:
+      213: 1536286972364585795
+    second: MeeleFighter-Walking9
+  - first:
+      213: 5414525817269301917
+    second: MeeleFighter-Walking10
+  - first:
+      213: 8633575561380228050
+    second: MeeleFighter-Walking11
+  - first:
+      213: 4474344619165170986
+    second: MeeleFighter-Walking12
+  - first:
+      213: 7672795086147484294
+    second: MeeleFighter-Walking13
+  - first:
+      213: 5423965254925377893
+    second: MeeleFighter-Walking14
+  - first:
+      213: -2423572071350548561
+    second: MeeleFighter-Walking15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: MeeleFighter-Walking0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1675
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c778112d4dc400fb0800000000000000
+      internalID: -4683659135524173956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking1
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1675
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2a6ffcc791a1b30800000000000000
+      internalID: 4258744421487911641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking2
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1675
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0631274dbacf104f0800000000000000
+      internalID: -864131838544571552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking3
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1675
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f7cf64f4d63270800000000000000
+      internalID: 8229999515378645376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking4
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1675
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93f4ab85b8e258d0800000000000000
+      internalID: -2858966946997275746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1302
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6933d9d44953e86b0800000000000000
+      internalID: -5292233601040174186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking6
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 1302
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 292a13b5b8c0718b0800000000000000
+      internalID: -5181659053596499310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking7
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 1302
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf79cc47722a8a2b0800000000000000
+      internalID: -5573026248523999236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking8
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 1302
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e5b0fcf537de5050800000000000000
+      internalID: 5791302797721908704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking9
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 1302
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bf9dc9cdcf15510800000000000000
+      internalID: 1536286972364585795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 929
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d92b48d1b82442b40800000000000000
+      internalID: 5414525817269301917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking11
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 929
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dbef8dfa3f90d770800000000000000
+      internalID: 8633575561380228050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking12
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 929
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d350c99b0181e30800000000000000
+      internalID: 4474344619165170986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking13
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 929
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68afe288a7e3b7a60800000000000000
+      internalID: 7672795086147484294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking14
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 929
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56163e579abc54b40800000000000000
+      internalID: 5423965254925377893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MeeleFighter-Walking15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 556
+        width: 360
+        height: 373
+      alignment: 9
+      pivot: {x: 0.5138889, y: 0.47184986}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7c79faa0ebd5ed0800000000000000
+      internalID: -2423572071350548561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

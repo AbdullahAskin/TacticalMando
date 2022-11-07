@@ -1,0 +1,452 @@
+fileFormatVersion: 2
+guid: f540dc5f13a504b469d50b3bae45d879
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8556704734061894266
+    second: Standing-DamageTaking0
+  - first:
+      213: 1129727155043933249
+    second: Standing-DamageTaking1
+  - first:
+      213: -8654684220985155445
+    second: Standing-DamageTaking2
+  - first:
+      213: 7872267658666029270
+    second: Standing-DamageTaking3
+  - first:
+      213: 4244292265311750314
+    second: Standing-DamageTaking4
+  - first:
+      213: 6297036909771336272
+    second: Standing-DamageTaking5
+  - first:
+      213: 6142555556730353054
+    second: Standing-DamageTaking6
+  - first:
+      213: -5840133470844085315
+    second: Standing-DamageTaking7
+  - first:
+      213: -5486726470261826974
+    second: Standing-DamageTaking8
+  - first:
+      213: -3238074096689944764
+    second: Standing-DamageTaking9
+  - first:
+      213: -7780308992323585268
+    second: Standing-DamageTaking10
+  - first:
+      213: -6606065523269638832
+    second: Standing-DamageTaking11
+  - first:
+      213: 4089827963734470070
+    second: Standing-DamageTaking12
+  - first:
+      213: 321971935161432092
+    second: Standing-DamageTaking13
+  - first:
+      213: -2915666576883532040
+    second: Standing-DamageTaking14
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Standing-DamageTaking0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 820
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a99a9ce958fb670800000000000000
+      internalID: 8556704734061894266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 820
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c9189acd89daf00800000000000000
+      internalID: 1129727155043933249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking2
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 820
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8060053e8264e780800000000000000
+      internalID: -8654684220985155445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking3
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 820
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0b59bf9b9ef3d60800000000000000
+      internalID: 7872267658666029270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking4
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 820
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa848dcf351c6ea30800000000000000
+      internalID: 4244292265311750314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 616
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05aa170d4b1936750800000000000000
+      internalID: 6297036909771336272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking6
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 616
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e95b304fbbdbe3550800000000000000
+      internalID: 6142555556730353054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking7
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 616
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbb1875fc8da3fea0800000000000000
+      internalID: -5840133470844085315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking8
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 616
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26a9f40685b3bd3b0800000000000000
+      internalID: -5486726470261826974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking9
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 616
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447e66ed3cc0013d0800000000000000
+      internalID: -3238074096689944764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 412
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b76cd713ac60490800000000000000
+      internalID: -7780308992323585268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking11
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 412
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 055ee82386a8254a0800000000000000
+      internalID: -6606065523269638832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking12
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 412
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd2ada3ddcf1c830800000000000000
+      internalID: 4089827963734470070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking13
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 412
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1831f6e4cfd77400800000000000000
+      internalID: 321971935161432092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Standing-DamageTaking14
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 412
+        width: 183
+        height: 204
+      alignment: 9
+      pivot: {x: 0.3387978, y: 0.41666666}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8feb06932b87987d0800000000000000
+      internalID: -2915666576883532040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

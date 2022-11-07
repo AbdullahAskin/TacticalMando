@@ -1,0 +1,30 @@
+#
+# Sprite sheet data for Unity.
+#
+# To import these sprites into your Unity project, download "TexturePackerImporter":
+# https://www.codeandweb.com/texturepacker/unity
+#
+# $TexturePacker:SmartUpdate:14f243b25a9fd9b80971b967bf2950db:3d54613ded6d6bb1ffe322cd982b2986:563682aac514d53690d7ea8ca6cfd2b3$
+#
+:format=40300
+:texture=Walking.png
+:size=1024x1024
+:pivotpoints=enabled
+:borders=disabled
+:alphahandling=ClearTransparentPixels
+
+Standing-Walking0;0;812;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking1;166;812;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking2;332;812;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking3;498;812;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking4;664;812;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking5;830;812;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking6;0;600;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking7;166;600;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking8;332;600;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking9;498;600;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking10;664;600;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking11;830;600;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking12;0;388;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking13;166;388;166;212; 0.186747;0.481132; 0;0;0;0
+Standing-Walking14;332;388;166;212; 0.186747;0.481132; 0;0;0;0
