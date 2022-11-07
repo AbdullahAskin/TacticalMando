@@ -1,15 +1,4 @@
 # TacticalMando
-2D real time strategy game
-
-<img src="Images/5.png" width="883" height="490">
-<img src="Images/1.png" width="883" height="490">
-<img src="Images/2.png" width="883" height="490">
-<img src="Images/3.png" width="883" height="490">
-<img src="Images/4.png" width="883" height="490">
-<img src="Images/6.png" width="883" height="490">
-<img src="Images/7.png" width="883" height="490">
-
-
 <a name="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
@@ -25,7 +14,7 @@
 <br />
 <div align="center">
   
-  <img src="images/logo.png" alt="Logo" width="80" height="80">
+  <img src="images/icon.png" alt="Logo" width="80" height="80">
 
   <h3 align="center">Tactical Mando</h3>
 
@@ -62,7 +51,13 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][<img src="Images/5.png" width="883" height="490">
+<img src="Images/1.png" width="883" height="490">
+<img src="Images/2.png" width="883" height="490">
+<img src="Images/3.png" width="883" height="490">
+<img src="Images/4.png" width="883" height="490">
+<img src="Images/6.png" width="883" height="490">
+<img src="Images/7.png" width="883" height="490">]]
 
 Real-time strategy turret defense game that I made in my study years. It's quite fun to both learn and gain experience with Unity2d. Also used a lot of side unity packages on the project.
 
