@@ -5,7 +5,6 @@
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
@@ -31,6 +30,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
+Tactical Mando is a real-time strategy turret defense game where the player builds and upgrades turrets to defend against waves of enemy units. The game features a variety of enemy types with different abilities, and the player must strategically place turrets and upgrade them to survive as long as possible.
+
 <img src="Images/5.png" width="883" height="490">
 <img src="Images/1.png" width="883" height="490">
 <img src="Images/2.png" width="883" height="490">
@@ -39,31 +40,28 @@
 <img src="Images/6.png" width="883" height="490">
 <img src="Images/7.png" width="883" height="490">
 
-Real-time strategy turret defense game that I made in my study years. It's quite fun to both learn and gain experience with Unity2d. Also used a lot of side unity packages on the project.
-
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 ### Built With
 
-Built with Unity2d, enemy ai system created with A* pathfinding package. Also used many side store package. 
+Tactical Mando was built using the following technologies and tools:
+
+- Unity2d
+- A* pathfinding package for enemy AI
+- Various side store packages for additional features and functionality
 
 See the [open issues](https://github.com/AbdullahAskin/TacticalMando/issues) for a full list of proposed features (and known issues).
 
-<!-- CONTACT -->
-## Contact
+<!-- SETUP AND USAGE -->
+## Setup and Usage
 
-<p> 
-  <br>
-      <p> Project Link: "https://github.com/AbdullahAskin/TacticalMando" </p>
-  <br>
-    <p> Mail: abdullahahmetaskin@gmail.com </p>
-  <br>
-</p>  
+To run Tactical Mando, follow these steps:
 
+1. Clone or download the repository to your local machine
+2. Open the project in Unity2d
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 [contributors-shield]: https://img.shields.io/github/contributors/AbdullahAskin/TacticalMando.svg?style=for-the-badge
 [contributors-url]: https://github.com/AbdullahAskin/TacticalMando/graphs/contributors
@@ -73,7 +71,5 @@ See the [open issues](https://github.com/AbdullahAskin/TacticalMando/issues) for
 [stars-url]: https://github.com/AbdullahAskin/TacticalMando/stargazers
 [issues-shield]: https://img.shields.io/github/issues/AbdullahAskin/TacticalMando.svg?style=for-the-badge
 [issues-url]: https://github.com/AbdullahAskin/TacticalMando/issues
-[license-shield]: https://img.shields.io/github/license/AbdullahAskin/TacticalMando.svg?style=for-the-badge
-[license-url]: https://github.com/AbdullahAskin/TacticalMando/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: www.linkedin.com/in/abdullah-ahmet-askin
